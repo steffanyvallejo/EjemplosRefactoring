@@ -7,10 +7,16 @@ El respositorio contiene un documento describiendo los "code smells" mencionados
 Referencias Bibliograficas:
 
 Caudevilla, G. (6 de Mayo de 2011). Frgtek. Obtenido de http://developing.frogtek.org/2011/05/06/olores-de-codigo-smell-codes/
+
 El Javiador. (16 de Agosto de 2011). Obtenido de http://eljaviador.com/code-smell-mal-olor-en-tu-codigo.html
+
 Seguridad Informatica. (8 de Octubre de 2012). Obtenido de https://seguinfo.wordpress.com/2012/10/08/code-smell-a-que-huele-tu-codigo/
+
 Source Making. (s.f.). Obtenido de https://sourcemaking.com/refactoring/smells/long-method
+
 Source Making. (s.f.). Obtenido de https://sourcemaking.com/refactoring/smells/large-class
+
 Source Making. (s.f.). Obtenido de https://sourcemaking.com/refactoring/smells/data-clumps
+
 Trainechimpanzees. (25 de Agosto de 2010). Obtenido de http://trainedchimpanzees.blogspot.com/2010/08/code-smells-obsesion-primitiva.html
 
